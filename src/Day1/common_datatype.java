@@ -1,6 +1,6 @@
+package Day1;
 
-public class Eg {
-
+public class common_datatype {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int n1=5/2;
@@ -18,9 +18,6 @@ public class Eg {
 		int marks=512;
 		double per=marks*0.45f;
 		System.out.println("Percentage : "+per);
-		
-		
-
 	}
 
 }

@@ -1,3 +1,5 @@
+package Day2;
+
 
 public class IfDemo {
 
@@ -15,5 +17,5 @@ public class IfDemo {
 		}
 		
 	}
-
 }
+

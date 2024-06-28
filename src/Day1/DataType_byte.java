@@ -1,3 +1,5 @@
+package Day1;
+
 
 public class DataType_byte {
 
@@ -31,3 +33,4 @@ public class DataType_byte {
 	}
 
 }
+

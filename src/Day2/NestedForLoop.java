@@ -1,3 +1,5 @@
+package Day2;
+
 
 public class NestedForLoop {
 
@@ -13,9 +15,6 @@ public class NestedForLoop {
 				System.out.println(i + " * " + j + " = " + i*j);
 			}
 		}
-		
-		
-
 	}
-
 }
+

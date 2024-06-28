@@ -1,3 +1,5 @@
+package Day2;
+
 
 public class ForEachloop {
 
@@ -25,3 +27,4 @@ public class ForEachloop {
 	}
 
 }
+

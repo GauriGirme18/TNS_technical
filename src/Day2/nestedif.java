@@ -1,3 +1,5 @@
+package Day2;
+
 
 public class nestedif {
 
@@ -31,3 +33,4 @@ public class nestedif {
 	}
 
 }
+

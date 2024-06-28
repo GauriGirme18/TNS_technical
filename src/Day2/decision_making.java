@@ -1,3 +1,5 @@
+package Day2;
+
 
 public class decision_making {
 
@@ -30,3 +32,4 @@ public class decision_making {
 	}
 
 }
+

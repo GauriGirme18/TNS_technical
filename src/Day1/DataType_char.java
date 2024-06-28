@@ -1,3 +1,5 @@
+package Day1;
+
 
 /*
  * Primitive data type-> built in data type-->int(byte->1byte,short->2byte,int->4byte,long),float,char->2bytes,boolean->1bit
@@ -29,3 +31,4 @@ public class DataType_char {
 	}
 
 }
+
