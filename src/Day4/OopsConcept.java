@@ -26,7 +26,4 @@ public class OopsConcept {
 	public String toString() {
 		return "OopsConcept [name=" + name + ", age=" + age + ", SerialNum=" + SerialNum + "]";
 	}
-	
-	
-
 }
